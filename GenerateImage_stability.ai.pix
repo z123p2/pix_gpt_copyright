@@ -119,7 +119,7 @@
                   <d9p1:ArgumentsToCompile xmlns:d10p1="http://schemas.datacontract.org/2004/07/BR.Core">
                     <d10p1:ArgumentItem z:Id="i16">
                       <d10p1:ArgumentName>authorization</d10p1:ArgumentName>
-                      <d10p1:Expression>"Bearer sk-FCeK7RGkFHuukianxNhZx9TWAdkmfRvoaLRYkd96UjIpBr1R"</d10p1:Expression>
+                      <d10p1:Expression>"Bearer YOUR_STABILITY_API_KEY"</d10p1:Expression>
                       <d10p1:Type>System.Object</d10p1:Type>
                     </d10p1:ArgumentItem>
                   </d9p1:ArgumentsToCompile>
